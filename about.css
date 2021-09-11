@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 80vh;
+}
+
+footer {
+    background-color: #8c929796!important;
+    color: rgb(0, 0, 0);
+}
+
+.nav {
+    background-color: cyan;
+    color: rgba(216, 23, 23, 0.192);
+    font: larger;
+}
+
+footer.py2 {
+    margin-bottom: 3rem;
+}
+
+.jumbotron {
+    background-color: rgba(228, 226, 211, 0.342);
+    text-align: center!important;
+    padding: 0.5rem!important;
+}
+
+.screen-body-item {
+    text-align: center;
+}
+
+button,
+input {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+}
+
+.img-fluid {
+    height: 40vh !important;
+}
+
+button,
+input {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+}
+
+button,
+input {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+}
+
+.background {
+    width: 100%;
+    display: flex;
+}
+
+.container {
+    flex: 0 1 700px;
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    height: 70vh;
+    background: transparent;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* box-shadow: 1px 1px 8px rgb(0, 0, 0); */
+}
+
+.card {
+    flex-basis: 20%;
+    background-color: transparent;
+    border-radius: 10%;
+    box-shadow: 1px 1px 8px rgb(0, 0, 0);
+}
+
+.card-title {
+    width: 100%;
+    height: 100px;
+    background-size: cover;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+h2 {
+    margin: 10px;
+}
+
+.button {
+    position: absolute;
+    top: 45%;
+    left: 38%;
+    transform: translate(-50%-50%);
+}
+
+.btn {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px 30px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    transition: 0.6s ease;
+}
+
+.btn:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(253, 253, 253);
+    transition: 0.6s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 50px -10px rgba(0, 0, 0, 0.55);
+}
